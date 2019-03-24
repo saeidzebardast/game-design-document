@@ -74,4 +74,4 @@ Player and Collision Detection, Pathfinding.
 ## Game Art
 Key assets, how they are being developed.  Intended style.
 
-Source: [cs.unc.edu](wwwx.cs.unc.edu/Courses/comp585-s11/585GameDesignDocumentTemplate.docx)
+Source: [cs.unc.edu](http://wwwx.cs.unc.edu/Courses/comp585-s11/585GameDesignDocumentTemplate.docx)
